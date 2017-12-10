@@ -1,2 +1,2 @@
 
-require('./day9/steps');
+require('./day10/step2');
